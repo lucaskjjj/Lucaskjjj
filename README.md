@@ -1,7 +1,4 @@
-Hi there 👋
-
-<!--
-**lucaskjjj/Lucaskjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**lucaskjjj/Lucaskjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://media.tenor.com/xlx0cipYpQEAAAAd/goku-4k.gif)
 ![](https://media.tenor.com/xPJky_nreC0AAAAd/ben-10-feedback.gif)
+![](https://media.tenor.com/unLoHOfnasIAAAAd/sans.gif)
